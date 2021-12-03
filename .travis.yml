@@ -1,0 +1,9 @@
+language: node js
+node js:
+   - 7
+env:
+- MY_VAR=EverythingIsAwesome
+- NODE_ENV=TEST
+
+
+repo_token: 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
