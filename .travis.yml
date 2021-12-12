@@ -1,11 +1,9 @@
 
 {
 
-  "language": "node_js",
-  "os": [
-    "linux"
-  ],
-  "dist": "xenial",
-  "node_js": [
-]
+Language: node_js
+Node_js: 
+ -7
+
+ 
 }
