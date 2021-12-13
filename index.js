@@ -22,7 +22,6 @@ FastText.train("supervised", config, function (success, error) {
 
 app.use(cors())
 
-
 app.get('/', (req, res) => {
   res.sendfile("index.html");
 });
