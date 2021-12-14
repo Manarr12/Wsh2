@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": { 
 
-    "test": "coveralls jest --coverage && coveralls < coverage/lcov.info ",
-
-    "test" : " No test specified " 
+    "test": "coveralls jest --coverage && coveralls < coverage/lcov.info "
   },
   "keywords": [],
   "author": "",
