@@ -1,3 +1,5 @@
+
+
 Language: node_js
 
 node_js:
@@ -7,4 +9,4 @@ script:
 - npm test
 
 cache:
-npm:false
+npm: false
