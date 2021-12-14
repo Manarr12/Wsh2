@@ -2,13 +2,5 @@
 
 
 Language: node_js
-
 Node_js: 
- - node
-
-install :
-- npm ci 
-
- script :
- - npm test : coveralls
-
+ -10
