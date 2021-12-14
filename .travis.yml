@@ -1,15 +1,11 @@
-
-
-
 Language: node_js
  
  node_js:
   - stable
 
-install :
+install:
 - npm ci 
 
- script :
-
- - npm test : coveralls
+script:
+- npm test : coveralls
 
