@@ -3,14 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  
-  
-  
-  
   "scripts": {
-    "test":  "testcafe chrome:headless,firefox:headless tests/index-test.js"
-},
-  
+    "test": "echo \"No test specified\""
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -18,9 +13,6 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "fasttext": "^1.0.0",
-    
     "save": "^2.4.0"
   }
-
-  
 }
