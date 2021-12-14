@@ -13,6 +13,7 @@ let config = {
 let classifier = new fastText.Classifier();
 classifier.train("supervised", config).then((res) => {
     console.log(res);
+    
 });
 
 app.use(cors());
