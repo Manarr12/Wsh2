@@ -4,7 +4,7 @@
 Language: node_js
 
 Node_js: 
- - node
+ - 10
 
 install :
 - npm ci 
